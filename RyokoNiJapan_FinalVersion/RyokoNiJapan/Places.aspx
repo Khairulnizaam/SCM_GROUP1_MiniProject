@@ -59,6 +59,7 @@
                 <asp:ImageButton ID="IBwakayama" runat="server" Height="260px" 
                     ImageUrl="~/picture/wakayama.jpg" Width="240px" onclick="IBwakayama_Click" />
                             <br />
+                            <br />
                             WAKAYAMA<br />
                         </td>
                     </tr>
