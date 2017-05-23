@@ -19,14 +19,7 @@
 </strong>
                 <table align="center" class="style9">
                     <tr>
-                        <td align="center">
-                            <asp:ImageButton ID="IBtokyo" runat="server" Height="260px" 
-                    ImageUrl="~/picture/tokyo.jpg" onclick="IBtokyo_Click" Width="240px" />
-                            <br />
-                            TOKYO<br />
-                            <br />
-                        </td>
-                        <td align="center">
+                      
                 <asp:ImageButton ID="IBosaka" runat="server" Height="260px" 
                     ImageUrl="~/picture/osaka.jpg" onclick="IBosaka_Click" Width="240px" />
                             <br />
@@ -58,6 +51,7 @@
                         <td align="center">
                 <asp:ImageButton ID="IBwakayama" runat="server" Height="260px" 
                     ImageUrl="~/picture/wakayama.jpg" Width="240px" onclick="IBwakayama_Click" />
+                            <br />
                             <br />
                             WAKAYAMA<br />
                         </td>
